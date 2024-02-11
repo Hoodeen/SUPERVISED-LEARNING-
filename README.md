@@ -25,4 +25,10 @@ cd SUPERVISED-LEARNING-
 - Ensure Python 3.7 is installed along with the specified packages.
 - The provided Jupyter notebooks generate the plots necessary for the assignment.
 
+
+**Datasets:**
+- Boston Housing Market: https://www.kaggle.com/datasets/abhijithudayakumar/the-boston-housing-dataset
+- Breast Cancer Wisconsin (Diagnostic): https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+
 For any further inquiries or issues, please contact [HOODEEN/HOODEENHAKIMIAN@GMAIL.COM].
